@@ -1,3 +1,10 @@
+// I added a small extra feature to make the program more user-friendly.
+// After loading the journal from a file, it now automatically shows all the entries
+// without the user needing to pick the display option again.
+// I thought this would save time and make it easier to check if the file was loaded correctly.
+
+
+
 using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
